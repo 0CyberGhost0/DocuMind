@@ -1,5 +1,5 @@
 {
-  "name": "DocuMind",
+  "name": "documind",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -10,15 +10,11 @@
   },
   "dependencies": {
     "@google/generative-ai": "^0.21.0",
-    "@langchain/community": "^0.3.21",
-    "@langchain/core": "^0.3.27",
-    "@langchain/openai": "^0.3.16",
     "@prisma/client": "^6.1.0",
     "@tabler/icons-react": "^3.26.0",
     "cloudinary": "^2.5.1",
     "clsx": "^2.1.1",
     "framer-motion": "^11.15.0",
-    "langchain": "^0.3.8",
     "next": "15.1.3",
     "pdf-parse": "^1.1.1",
     "prisma": "^6.1.0",
