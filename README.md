@@ -15,17 +15,4 @@
 - [ ] Implement rate limiting
 - [ ] Add document history
 
-## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-- Google Generative AI
-- LangChain for PDF processing
-- Next.js team for the amazing framework
-- Developed by [Harsh Thakur](https://www.linkedin.com/in/harsh-thakur-20877b246/)
